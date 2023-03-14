@@ -1,2 +1,1 @@
-# Precourse-Henry
-Este es un modulo de prueba del modulo 2 de Henry
+este es una prueba de como crear un repositorio desde github a mi escritorio local 
